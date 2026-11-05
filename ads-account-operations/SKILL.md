@@ -10,6 +10,7 @@ Use current account evidence to make specific decisions about coverage, qualifie
 Read [operator preferences](references/operator-preferences.md) for the package's default working style. Current user instructions override those defaults. Load other references only when relevant:
 
 - Audits, recommendations and migrations: [account operations](references/account-operations.md).
+- Explaining or adapting the structure and defaults: [account design](references/account-design.md).
 - Reporting, creative follow-up and query discovery: [reporting and discovery](references/reporting-and-discovery.md).
 - Repeatable local budget and routing checks: [offline checks](references/offline-checks.md).
 
