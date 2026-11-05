@@ -70,6 +70,10 @@ These are defaults for focused brand capture, not universal rules for every adve
 
 No Search Partners, Display or AI feature is claimed to be inherently unprofitable. Their omission prioritizes scope, approvals and measurement for this workflow. No fixed bid strategy, CPC ceiling or legacy budget percentage is prescribed for all accounts.
 
+## Search guidance and assets
+
+The [Search strategy and assets reference](ads-account-operations/references/search-strategy-and-assets.md) covers STAG boundaries, brand versus generic objectives, responsive ads, pinning, useful assets, Google/Yahoo JP differences, sourced vendor averages and measurement. It preserves approval requirements and focused-brand defaults. Current official guidance is checked and dated, including Yahoo automatic quicklinks.
+
 ## Use
 
 Copy `ads-account-operations` into your Codex skills directory, then invoke:
@@ -94,7 +98,7 @@ Provide the account's timezone, currency, budget, topic boundaries, conversion d
 ## Contents
 
 - `SKILL.md`: workflow selection and essential decision rules.
-- `references/`: operator preferences, account operations, reporting/discovery and offline checks.
+- `references/`: operator preferences, account design, Search strategy/assets, account operations, reporting/discovery and offline checks.
 - `scripts/audit_plan.py`: dependency-free local checks of normalized budget/routing snapshots.
 - `scripts/test_audit_plan.py`: fictional regression scenarios.
 

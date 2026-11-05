@@ -9,6 +9,7 @@ These are the requesting operator's defaults, adaptable by other users. They are
 - Preserve qualified conversions while improving cost per relevant action. Keep all conversions, primary conversions and business outcomes distinct.
 - Allocate budgets using action quality, coverage needs, recent spend and sales timing. Conversion share alone does not establish the ideal allocation.
 - Split campaigns where a separate spending limit is useful. Avoid campaigns for every keyword or spelling.
+- Evaluate brand capture separately from generic acquisition. Review useful Search assets and propose additions with their approval requirements; do not treat preservation during a move as a reason to omit creative recommendations.
 - Capture official brand demand. Respect the account's reseller/partner policy. Preserve exclusions when the user avoids competing with partners.
 - For new Search campaigns, keep Search Partners, Display and AI expansion off unless approved. Verify copied and pre-existing shells.
 - Preserve approved ad text, pins, sitelinks and callouts. Obtain required approval for wording, pinning or association changes. Unchanged copying does not override an explicit approval requirement.

@@ -26,7 +26,7 @@ flowchart TB
 
 This is the management model. The arrows do not mean the repository currently runs an automatic sync. It supplies an offline checker; the [live-sync implementation prompt](live-sync-prompt.md) defines the separate implementation.
 
-Native shared lists attach to campaigns. Ad-group negatives are direct entries and need a separate managed process if they are to stay aligned with master rules. [Google negative scopes](https://support.google.com/google-ads/answer/7102995?hl=en), [Yahoo list and individual scopes](https://www.lycbiz.com/jp/news/yahoo-ads/20260122/).
+Native shared lists attach to campaigns. Ad-group negatives are direct entries and need a separate managed process if they are to stay aligned with master rules. [Google negative scopes](https://support.google.com/google-ads/answer/7102995?hl=en), [Yahoo campaign lists](https://ads-help.yahoo-net.jp/s/article/H000046040), [Yahoo individual campaign/group scopes](https://ads-help.yahoo-net.jp/s/article/H000044602?language=ja).
 
 ### Which rules belong where?
 

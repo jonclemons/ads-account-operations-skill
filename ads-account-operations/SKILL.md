@@ -1,6 +1,6 @@
 ---
 name: ads-account-operations
-description: Audit Google Ads and Yahoo JP Search accounts, analyze keywords by intent, stage budget-separated campaign migrations, and report verified Ads, Meta, GA4 and Search Console results. Use for paid-media account operations and reporting, not general SEO or creative production alone.
+description: Plan and audit Google Ads and Yahoo JP Search structure, topics, creative/assets and migrations, and report verified Ads, Meta, GA4 and Search Console results. Use for Search strategy, education and paid-media operations, not general SEO or standalone creative production.
 ---
 
 # Ads Account Operations
@@ -11,6 +11,7 @@ Read [operator preferences](references/operator-preferences.md) for the package'
 
 - Audits, recommendations and migrations: [account operations](references/account-operations.md).
 - Explaining or adapting the structure and defaults: [account design](references/account-design.md).
+- Search education, brand/generic strategy, approved creative and platform-specific assets: [Search strategy and assets](references/search-strategy-and-assets.md).
 - Reporting, creative follow-up and query discovery: [reporting and discovery](references/reporting-and-discovery.md).
 - Repeatable local budget and routing checks: [offline checks](references/offline-checks.md).
 
