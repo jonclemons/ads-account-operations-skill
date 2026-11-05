@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ads Account Operations"
+  short_description: "Audit, route, migrate and report paid media accounts"
+  default_prompt: "Use $ads-account-operations to audit this ads account, group keyword performance by intent, and propose scoped changes."
